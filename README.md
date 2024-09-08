@@ -1,4 +1,4 @@
-#Task Overview:  Building a Decision Tree Classifier with the Bank Marketing Dataset
+# Task Overview:  Building a Decision Tree Classifier with the Bank Marketing Dataset
 
 - Objective
   
@@ -35,6 +35,6 @@ step 8: Saving the Model and Results
 Explanation: After successfully building and evaluating the model, we saved it for future use. This allows us to quickly load and apply the model without retraining it.
 
 
-Conclusion
+- Conclusion
 This project demonstrates a complete machine learning workflow using a decision tree classifier for customer purchase prediction. The steps include data preprocessing, model building, evaluation, and saving the results. By following this process, we created an efficient model that can help predict customer behavior in future marketing campaigns.
 
