@@ -27,11 +27,8 @@ Step 6: Model Evaluation
 Explanation: Evaluating the model’s performance is crucial to understand how well it generalizes to unseen data. The evaluation includes calculating accuracy, generating a classification report (precision, recall, F1-score), and visualizing the confusion matrix.
 
 
-Step 7: Hyperparameter Tuning (Optional)
-Explanation: To improve the model's performance, we used GridSearchCV to perform hyperparameter tuning. This method tests various combinations of parameters (like tree depth) to find the best configuration.
 
-
-step 8: Saving the Model and Results
+step 7: Saving the Model and Results
 Explanation: After successfully building and evaluating the model, we saved it for future use. This allows us to quickly load and apply the model without retraining it.
 
 
